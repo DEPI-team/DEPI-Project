@@ -93,10 +93,10 @@ https://github.com/user-attachments/assets/b93fe18c-9069-4f3d-b324-297b330803ae
    ```bash
    cd filmoria
 
-3.Install the required dependencies:
+3. Install the required dependencies:
 
-    
-     pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 4. Run the application backend:
 
