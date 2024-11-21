@@ -110,7 +110,9 @@ https://github.com/user-attachments/assets/b93fe18c-9069-4f3d-b324-297b330803ae
 
 ## 📊 Results 
 The DistilBERT-based recommendation model provided higher accuracy and relevance compared to traditional models like TF-IDF and LSTM.
+
 Successful integration of movie reel detection to identify films and cast members from short clips.
+
 User feedback showed improved recommendation relevance after incorporating advanced models and expanding the dataset.
 
 
