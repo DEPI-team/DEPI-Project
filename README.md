@@ -84,6 +84,7 @@ https://github.com/user-attachments/assets/b93fe18c-9069-4f3d-b324-297b330803ae
 ---
 
 ## 💡 **Get Started**
+
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/filmoria.git
@@ -94,35 +95,42 @@ https://github.com/user-attachments/assets/b93fe18c-9069-4f3d-b324-297b330803ae
 
 3.Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
+    
+     pip install -r requirements.txt
 
 4. Run the application backend:
 
-```bash
-python app.py
+    ```bash
+    python app.py
 
 5. Launch the frontend using Flutter:
 
-```bash
-flutter run
+    ```bash
+    flutter run
 
-## 📊 Results
+## 📊 Results 
 The DistilBERT-based recommendation model provided higher accuracy and relevance compared to traditional models like TF-IDF and LSTM.
 Successful integration of movie reel detection to identify films and cast members from short clips.
 User feedback showed improved recommendation relevance after incorporating advanced models and expanding the dataset.
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🤝 Contributors
+
+## 🤝 Contributors 
 Team Members:
+
 George Esbergen Sedky Reyad
+
 Hassan Mohammed Basuony Nagy
+
 Abdulrahman Hisham Kamel Mahmoud
+
 Omar Khilad Shepl Emara
-## 📬 Contact
+
+
+##  📬 Contact 
 For questions or feedback, please reach out to us via:
 
 GitHub Issues
-Email
+
+Email : Abdulrahmanhishamk@gmail.com
+
 We hope you enjoy Filmoria and find your next favorite movie! 🎬🍿
